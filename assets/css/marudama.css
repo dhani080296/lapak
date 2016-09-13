@@ -1,0 +1,13 @@
+/* 
+    Document   : marudama
+    Created on : Apr 16, 2016, 1:34:11 PM
+    Author     : Dhani
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body,td,th { 
+  font-family: Verdana,Geneva, sans-serif;
+  font-size: 12px;
+}
+
